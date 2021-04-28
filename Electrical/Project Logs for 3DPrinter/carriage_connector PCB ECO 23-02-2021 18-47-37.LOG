@@ -1,0 +1,37 @@
+Added Component: Designator=CON?(KRE3-3vias)
+Add component (AddParameter): Name = "Descrição"; Value = "Conector KRE 3 vias 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encapsulamento"; Value = "PTH - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marca"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modelo"; Value = "3 vias - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CON?(KRE3-3vias)
+Add component (AddParameter): Name = "Descrição"; Value = "Conector KRE 3 vias 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encapsulamento"; Value = "PTH - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marca"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modelo"; Value = "3 vias - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CON?(KRE3-3vias)
+Add component (AddParameter): Name = "Descrição"; Value = "Conector KRE 3 vias 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encapsulamento"; Value = "PTH - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marca"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modelo"; Value = "3 vias - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CON?(KRE3-3vias)
+Add component (AddParameter): Name = "Descrição"; Value = "Conector KRE 3 vias 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encapsulamento"; Value = "PTH - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marca"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modelo"; Value = "3 vias - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON?_1 Pin=CON?-1
+Added Pin To Net: NetName=NetCON?_1 Pin=INPUT-9
+Added Net: Name=NetCON?_1
+Added Pin To Net: NetName=NetCON?_2 Pin=CON?-2
+Added Pin To Net: NetName=NetCON?_2 Pin=INPUT-13
+Added Net: Name=NetCON?_2
+Added Pin To Net: NetName=NetCON?_3 Pin=CON?-3
+Added Pin To Net: NetName=NetCON?_3 Pin=INPUT-14
+Added Net: Name=NetCON?_3

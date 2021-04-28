@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetHEATER2_1 Pin=INPUT-23
+Removed Pin From Net: NetName=NetHEATER2_2 Pin=INPUT-24
+Change Component Designator: OldDesignator=CNC FAN NewDesignator=FAN
+Change Component Designator: OldDesignator=FAN NewDesignator=TH2
+Change Component Designator: OldDesignator=HE0 NewDesignator=HEATER1
+Change Component Designator: OldDesignator=HE1 NewDesignator=HEATER2
+Change Component Designator: OldDesignator=INPUT NewDesignator=P?
+Change Component Designator: OldDesignator=TH0 NewDesignator=TH3
+Change Component Designator: OldDesignator=TH1 NewDesignator=TH4
+Added Pin To Net: NetName=NetHEATER2_2 Pin=P?-23
+Added Pin To Net: NetName=NetHEATER2_1 Pin=P?-24

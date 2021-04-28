@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetCON4_1 Pin=INPUT-12
+Removed Pin From Net: NetName=NetCON4_2 Pin=INPUT-13
+Removed Pin From Net: NetName=NetE0_4 Pin=INPUT-15
+Removed Pin From Net: NetName=NetE0_3 Pin=INPUT-16
+Removed Pin From Net: NetName=NetE0_2 Pin=INPUT-17
+Removed Pin From Net: NetName=NetE0_1 Pin=INPUT-18
+Removed Pin From Net: NetName=NetE1_4 Pin=INPUT-19
+Removed Pin From Net: NetName=NetE1_3 Pin=INPUT-20
+Removed Pin From Net: NetName=NetE1_2 Pin=INPUT-21
+Removed Pin From Net: NetName=NetE1_1 Pin=INPUT-22
+Removed Pin From Net: NetName=NetHE1_2 Pin=INPUT-23
+Removed Pin From Net: NetName=NetHE1_1 Pin=INPUT-24
+Change Component Footprint: Designator=INPUT Old Footprint=HDR2X12 New Footprint=HDR2X11
+Change Component Footprint: Designator=CON3 Old Footprint=KRE3-3vias New Footprint=KRE2-2vias
+Change Component Footprint: Designator=CON4 Old Footprint=KRE3-3vias New Footprint=KRE2-2vias
+Change Component Comment : Designator=INPUT Old Comment=Header 12X2 New Comment=Header 11X2
+Change Component Comment : Designator=CON3 Old Comment=KRE3vias New Comment=KRE2vias
+Change Component Comment : Designator=CON4 Old Comment=KRE3vias New Comment=KRE2vias
+Change component parameters: Designator = "CON3" ("CON3"); Footprint = "KRE3-3vias"; UniqueID = "\MTRZNBIB" ("\MTRZNBIB")
+Change component parameters (AddParameter): Name = "Descrição"; Value = "Conector KRE 2 vias 180º"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Encapsulamento"; Value = "PTH - 180º"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marca"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modelo"; Value = "2 vias - 180º"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CON4" ("CON4"); Footprint = "KRE3-3vias"; UniqueID = "\BQXGTUUS" ("\BQXGTUUS")
+Change component parameters (AddParameter): Name = "Descrição"; Value = "Conector KRE 2 vias 180º"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Encapsulamento"; Value = "PTH - 180º"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marca"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modelo"; Value = "2 vias - 180º"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X11)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON4_1 Pin=INPUT-11
+Added Pin To Net: NetName=NetCON4_2 Pin=INPUT-12
+Added Pin To Net: NetName=NetE0_1 Pin=INPUT-13
+Added Pin To Net: NetName=NetE0_2 Pin=INPUT-14
+Added Pin To Net: NetName=NetE1_2 Pin=INPUT-15
+Added Pin To Net: NetName=NetE1_1 Pin=INPUT-16
+Added Pin To Net: NetName=NetE0_4 Pin=INPUT-17
+Added Pin To Net: NetName=NetE0_3 Pin=INPUT-18
+Added Pin To Net: NetName=NetHE1_2 Pin=INPUT-19
+Added Pin To Net: NetName=NetHE1_1 Pin=INPUT-20
+Added Pin To Net: NetName=NetE1_4 Pin=INPUT-21
+Added Pin To Net: NetName=NetE1_3 Pin=INPUT-22

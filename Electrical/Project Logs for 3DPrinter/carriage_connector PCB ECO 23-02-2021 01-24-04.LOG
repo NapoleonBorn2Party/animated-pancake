@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=FAN NewDesignator=CNC FAN
+Change Component Designator: OldDesignator=HEATER1 NewDesignator=HE0
+Change Component Designator: OldDesignator=HEATER2 NewDesignator=HE1
+Change Component Designator: OldDesignator=TH2 NewDesignator=FAN
+Change Component Designator: OldDesignator=TH3 NewDesignator=TH0
+Change Component Designator: OldDesignator=TH4 NewDesignator=TH1
+Change Net Name : Old Net Name=NetFAN_1 New Net Name=NetCNC FAN_1
+Change Net Name : Old Net Name=NetFAN_2 New Net Name=NetCNC FAN_2
+Change Net Name : Old Net Name=NetHEATER1_1 New Net Name=NetHE0_1
+Change Net Name : Old Net Name=NetHEATER1_2 New Net Name=NetHE0_2
+Change Net Name : Old Net Name=NetHEATER2_1 New Net Name=NetHE1_1
+Change Net Name : Old Net Name=NetHEATER2_2 New Net Name=NetHE1_2
+Change Net Name : Old Net Name=NetP?_5 New Net Name=NetFAN_1
+Change Net Name : Old Net Name=NetP?_6 New Net Name=NetFAN_2

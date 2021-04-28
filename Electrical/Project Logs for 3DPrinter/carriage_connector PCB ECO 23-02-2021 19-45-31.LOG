@@ -1,0 +1,35 @@
+Added Component: Designator=CON4(KRE2-2vias)
+Add component (AddParameter): Name = "Descrição"; Value = "Conector KRE 2 vias 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encapsulamento"; Value = "PTH - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marca"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modelo"; Value = "2 vias - 180º"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Observação"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Valor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=INPUT(HDR2X11)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON4_1 Pin=CON4-1
+Added Pin To Net: NetName=NetCON4_2 Pin=CON4-2
+Added Pin To Net: NetName=NetHE0_1 Pin=INPUT-1
+Added Pin To Net: NetName=NetHE0_2 Pin=INPUT-2
+Added Pin To Net: NetName=NetCON1_1 Pin=INPUT-3
+Added Pin To Net: NetName=NetCON1_2 Pin=INPUT-4
+Added Pin To Net: NetName=NetCON1_3 Pin=INPUT-5
+Added Pin To Net: NetName=NetCON2_1 Pin=INPUT-6
+Added Pin To Net: NetName=NetCON2_2 Pin=INPUT-7
+Added Pin To Net: NetName=NetCON2_3 Pin=INPUT-8
+Added Pin To Net: NetName=NetCON3_1 Pin=INPUT-9
+Added Pin To Net: NetName=NetCON3_2 Pin=INPUT-10
+Added Pin To Net: NetName=NetCON4_1 Pin=INPUT-11
+Added Pin To Net: NetName=NetCON4_2 Pin=INPUT-12
+Added Pin To Net: NetName=NetE0_1 Pin=INPUT-13
+Added Pin To Net: NetName=NetE0_2 Pin=INPUT-14
+Added Pin To Net: NetName=NetE1_2 Pin=INPUT-15
+Added Pin To Net: NetName=NetE1_1 Pin=INPUT-16
+Added Pin To Net: NetName=NetE0_4 Pin=INPUT-17
+Added Pin To Net: NetName=NetE0_3 Pin=INPUT-18
+Added Pin To Net: NetName=NetHE1_2 Pin=INPUT-19
+Added Pin To Net: NetName=NetHE1_1 Pin=INPUT-20
+Added Pin To Net: NetName=NetE1_4 Pin=INPUT-21
+Added Pin To Net: NetName=NetE1_3 Pin=INPUT-22
