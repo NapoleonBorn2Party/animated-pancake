@@ -1,9 +1,8 @@
 Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [3DPrinter.PrjPcb]
-   Generated File[carriage_connector.GTO]
-   Generated File[carriage_connector.GTL]
    Generated File[carriage_connector.GBL]
+   Generated File[carriage_connector.GKO]
    Generated File[carriage_connector.GD1]
    Generated File[carriage_connector.GG1]
    Generated File[carriage_connector.RUL]
@@ -11,7 +10,7 @@ From  : Variant [[No Variations]] of Project [3DPrinter.PrjPcb]
    Generated File[carriage_connector.REP]
 
 
-Files Generated   : 8
+Files Generated   : 7
 Documents Printed : 0
 
-Finished Output Generation At 04:05:35 On 17/03/2021
+Finished Output Generation At 01:50:49 On 20/07/2021

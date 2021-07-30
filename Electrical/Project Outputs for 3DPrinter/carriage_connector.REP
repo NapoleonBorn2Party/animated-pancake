@@ -2,29 +2,6 @@
 FileName = carriage_connector.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : carriage_connector.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : carriage_connector.GBL
 
@@ -34,30 +11,27 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D14
-    D15
-    D17
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : carriage_connector.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
     D10
     D11
     D12
     D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : carriage_connector.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D20
 *************************************************************
 
 *************************************************************
@@ -70,8 +44,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D26
-    D27
+    D21
+    D22
 *************************************************************
 
 *************************************************************
@@ -84,6 +58,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D26
+    D21
 *************************************************************
 
